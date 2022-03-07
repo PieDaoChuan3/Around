@@ -1,0 +1,10 @@
+elasticsearch:
+  address: "http://34.125.45.88:9200"
+  username: "hjl20120511"
+  password: "19980511Hjl"
+
+gcs:
+  bucket: "pdc3-around-bucket"
+
+token:
+  secret: "secret"
